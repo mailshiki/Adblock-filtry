@@ -35,7 +35,6 @@ c.gmx.com##.pos-header
 c.gmx.com##.pos-app-footer
 gmx.com##.cookie-layer__text
 poradnikzdrowie.pl##.banner_banner--3pjXd
-mediaexpert.pl##.m-cookieBox
 euro.com.pl###cookie-bar
 komputronik.pl##.cookies-bar.active
 ! #9274
