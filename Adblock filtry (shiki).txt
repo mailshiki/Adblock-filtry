@@ -11,5 +11,6 @@ https://shikimori.one/assets/globals/events/special_2@2x.jpg
 https://shikimori.one/assets/globals/events/*
 https://myanimelist.net/c/u/*
 https://mxj.myanimelist.net/bunkasai2022/*
+mxj.myanimelist.net/otakujudge/quizentry/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
