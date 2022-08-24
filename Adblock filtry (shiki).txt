@@ -9,5 +9,6 @@
 https://shikimori.one/assets/globals/events/special_2.jpg
 https://shikimori.one/assets/globals/events/special_2@2x.jpg
 https://shikimori.one/assets/globals/events/*
+https://myanimelist.net/c/u/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
