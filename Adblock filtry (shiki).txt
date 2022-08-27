@@ -9,7 +9,7 @@
 https://shikimori.one/assets/globals/events/special_2.jpg
 https://shikimori.one/assets/globals/events/special_2@2x.jpg
 https://shikimori.one/assets/globals/events/*
-mxj.myanimelist.net/*
+myanimelist.net/c/*
 anilibria.tv/dc/*
 anilibria.tv/dc
 ! #9274
