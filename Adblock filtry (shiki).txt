@@ -14,5 +14,6 @@ anilibria.tv/dc
 anilibria.tv/dc/*
 anilibria.tv/dg
 anilibria.tv/dg/*
+anilibria.tv/pages/donate.*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
