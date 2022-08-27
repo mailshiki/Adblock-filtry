@@ -8,6 +8,7 @@
 https://shikimori.one/assets/globals/events/special_2.jpg
 https://shikimori.one/assets/globals/events/special_2@2x.jpg
 https://shikimori.one/assets/globals/events/*
+myanimelist.net/c/*
 *.myanimelist.net/c/*
 anilibria.tv/dc/*
 anilibria.tv/dc
