@@ -10,7 +10,9 @@ https://shikimori.one/assets/globals/events/special_2@2x.jpg
 https://shikimori.one/assets/globals/events/*
 myanimelist.net/c/*
 *.myanimelist.net/c/*
-anilibria.tv/dc/*
 anilibria.tv/dc
+anilibria.tv/dc/*
+anilibria.tv/dg
+anilibria.tv/dg/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
