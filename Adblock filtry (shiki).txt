@@ -2,14 +2,13 @@
 ! Checksum: RtXdqAXwYdp+WpJOQ5wBJQ
 ! Version: 201906011210
 ! Title: Shikimori
-! Last modified: 01 Jun 2019 12:10 UTC
 ! Expires: 9 hours (update frequency)
 !
 ! Please report any issues
 https://shikimori.one/assets/globals/events/special_2.jpg
 https://shikimori.one/assets/globals/events/special_2@2x.jpg
 https://shikimori.one/assets/globals/events/*
-myanimelist.net/c/*
+*.myanimelist.net/c/*
 anilibria.tv/dc/*
 anilibria.tv/dc
 ! #9274
