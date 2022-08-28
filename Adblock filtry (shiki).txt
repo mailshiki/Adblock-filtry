@@ -10,6 +10,8 @@ https://shikimori.one/assets/globals/events/special_2@2x.jpg
 https://shikimori.one/assets/globals/events/*
 myanimelist.net/c/*
 *.myanimelist.net/c/*
+shinden.pl###cookie-bar
+shinden.pl##.fixed.bottom
 anilibria.tv/dc
 anilibria.tv/dc/*
 anilibria.tv/dg
