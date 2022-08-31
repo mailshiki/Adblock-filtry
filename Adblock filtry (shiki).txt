@@ -13,9 +13,8 @@ myanimelist.net/c/*
 shinden.pl###cookie-bar
 shinden.pl##.fixed.bottom
 anilibria.tv/dc
-anilibria.tv/dc/*
 anilibria.tv/dg
-anilibria.tv/dg/*
 anilibria.tv/fox
+https://video.sibnet.ru/legacy-assets/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
