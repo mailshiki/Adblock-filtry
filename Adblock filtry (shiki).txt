@@ -15,6 +15,6 @@ shinden.pl##.fixed.bottom
 anilibria.tv/dc
 anilibria.tv/dg
 anilibria.tv/fox
-https://video.sibnet.ru/legacy-assets/*
+https://video.sibnet.ru/legacy-assets/dash-m2g2674a136t357d9ba88b.nhttps%3A%2F%2Fsoft.sibnet.ru%2Fsoft%2F32609-andeks-brauzer--22-3-0%2F.all.js
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
