@@ -16,5 +16,9 @@ anilibria.tv/dc
 anilibria.tv/dg
 anilibria.tv/fox
 anilibria.tv/hero
+https://anilibria.tv/dc
+https://anilibria.tv/dg
+https://anilibria.tv/fox
+https://anilibria.tv/hero
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
