@@ -16,6 +16,7 @@ anilibria.tv/dc
 anilibria.tv/dg
 anilibria.tv/fox
 anilibria.tv/hero
+https://anilibria.tv/hero/*
 *.anilibria.tv/dc
 *.anilibria.tv/dg
 *.anilibria.tv/fox
