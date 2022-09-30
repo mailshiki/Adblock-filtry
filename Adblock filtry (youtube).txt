@@ -21,40 +21,10 @@ youtube.com##.annotation-type-text.annotation-popup-shape.annotation-shape:nth-o
 youtube.com##.annotation-type-text.annotation-popup-shape.annotation-shape:nth-of-type(5)
 youtube.com##.branding-img-container
 youtube.com/annotations_
-m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(1) > lazy-list > .item
-youtube.com###chat
-www.googletagservices.com
-www-googletagmanager.l.google.com
 www-google-analytics.l.google.com
 www.googleadservices.com
 www.analytic-google.com
-tpc.googlesyndication.com
-stats.g.doubleclick.net
-static.doubleclick.net
-ssl.google-analytics.com
-s.innovid.com
-securepubads.g.doubleclick.net
-secure-ds.serving-sys.com
-s0.2mdn.net
-rtd.tubemogul.com
-0.sn-25ge7n76.googlevideo.com
-pubads.g.doubleclick.net
-pixel.moatads.com
-pagead.l.doubleclick.net
-pagead.googlesyndication.com
-pagead2.googlesyndication.com
-pagead1.googlesyndication.com
-innovid.com
-googleads.g.doubleclick.net
 googleadservices.com
-googleads4.g.doubleclick.net
-googleadapis.l.google.com
-g.doubleclick.net
-fwmrm.net
-fls.doubleclick.net
-files.adform.net
-dts.innovid.com
-doubleclick.net
 analytic-google.com
 ad.youtube.com
 ads.youtube.com
@@ -63,7 +33,6 @@ ads.doubleclick.net
 ad.mo.doubleclick.net
 ad-g.doubleclick.net
 ad.doubleclick.net
-2mdn.net
-2975c.v.fwmrm.net
+https://soft.sibnet.ru/article/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
