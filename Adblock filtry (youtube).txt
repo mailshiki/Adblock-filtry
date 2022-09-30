@@ -34,5 +34,6 @@ ad.mo.doubleclick.net
 ad-g.doubleclick.net
 ad.doubleclick.net
 https://soft.sibnet.ru/article/*
+soft.sibnet.ru/article/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
