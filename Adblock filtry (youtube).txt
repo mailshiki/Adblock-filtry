@@ -7,20 +7,6 @@
 ! Report issues
 !
 youtube.com/annotations_
-youtube.com##.ytp-ce-element-show
-youtube.com##.ytp-ce-element
-youtube.com##.ytp-cards-teaser-text
-youtube.com##.ytp-cards-button-icon-default
-youtube.com##.annotation-type-text.annotation
-youtube.com##.ytp-scroll-min.ytp-pause-overlay
-youtube.com###offer-module > .ytd-watch.style-scope
-youtube.com##.annotation-type-text.annotation-popup-shape.annotation-shape
-youtube.com##.annotation-type-text.annotation-speech-shape.annotation-shape
-youtube.com##.annotation-type-text.annotation-popup-shape.annotation-shape:nth-of-type(3)
-youtube.com##.annotation-type-text.annotation-popup-shape.annotation-shape:nth-of-type(7)
-youtube.com##.annotation-type-text.annotation-popup-shape.annotation-shape:nth-of-type(5)
-youtube.com##.branding-img-container
-youtube.com/annotations_
 www-google-analytics.l.google.com
 www.googleadservices.com
 www.analytic-google.com
@@ -29,11 +15,8 @@ analytic-google.com
 ad.youtube.com
 ads.youtube.com
 adservice.google.com
-ads.doubleclick.net
-ad.mo.doubleclick.net
-ad-g.doubleclick.net
-ad.doubleclick.net
-https://soft.sibnet.ru/article/*
-soft.sibnet.ru/article/*
+http://sibtel.adriver.ru/cgi-bin/*
+http://ad1.sibnet.ru/*
+ad1.sibnet.ru/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
