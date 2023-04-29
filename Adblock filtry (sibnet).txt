@@ -10,5 +10,7 @@ wink.ru
 wink.ru/*
 *.wink.ru
 *.wink.ru/*
+https://www.anilibria.tv/pages/donate.php
+anilibria.tv/pages/donate.php
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
