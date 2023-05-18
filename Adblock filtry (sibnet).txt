@@ -5,7 +5,10 @@
 ! Expires: 9 hours (update frequency)
 !
 ! Please report any issues
-! https://video.sibnet.ru/legacy-assets/dash-m2g2751a136t25c1f58fc6.nhttps%3A%2F%2Fwink.ru%2Fservices%2Ftransformernew.all.js
+historygame.sibnet.ru
+historygame.sibnet.ru/*
+*.historygame.sibnet.ru
+*.historygame.sibnet.ru/*
 wink.ru
 wink.ru/*
 *.wink.ru
