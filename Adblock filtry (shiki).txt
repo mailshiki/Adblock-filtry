@@ -12,6 +12,8 @@ myanimelist.net/c/*
 *.myanimelist.net/c/*
 shinden.pl###cookie-bar
 shinden.pl##.fixed.bottom
+https://www.anilibria.tv/pages/donate.php
+anilibria.tv/pages/donate.php
 anilibria.tv/dc
 anilibria.tv/dg
 anilibria.tv/fox
