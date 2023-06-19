@@ -14,6 +14,9 @@ shinden.pl###cookie-bar
 shinden.pl##.fixed.bottom
 https://www.anilibria.tv/pages/donate.php
 anilibria.tv/pages/donate.php
+*.anilibria.tv/pages/donate.php
+https://www.anilibria.tv/img/support_al.png
+*.anilibria.tv/img/support_al.png
 anilibria.tv/dc
 anilibria.tv/dg
 anilibria.tv/fox
