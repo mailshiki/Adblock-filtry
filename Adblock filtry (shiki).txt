@@ -25,5 +25,8 @@ https://anilibria.tv/hero/*
 *anilibria.tv/dg
 *anilibria.tv/fox
 *anilibria.tv/hero
+https://www.anilibria.tv/img/other/*
+*.anilibria.tv/img/other/*
+anilibria.tv/img/other/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
