@@ -8,6 +8,12 @@
 https://shikimori.one/assets/globals/events/special_2.jpg
 https://shikimori.one/assets/globals/events/special_2@2x.jpg
 https://shikimori.one/assets/globals/events/*
+https://shikimori.me/assets/globals/events/special_2.jpg
+https://shikimori.me/assets/globals/events/special_2@2x.jpg
+https://shikimori.me/assets/globals/events/*
+*.shikimori.me/assets/globals/events/special_2.jpg
+*.shikimori.me/assets/globals/events/special_2@2x.jpg
+*.shikimori.me/assets/globals/events/*
 myanimelist.net/c/*
 *.myanimelist.net/c/*
 shinden.pl###cookie-bar
