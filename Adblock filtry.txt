@@ -35,5 +35,8 @@ v.wpimg.pl/*
 poradnikzdrowie.pl##.banner_banner--3pjXd
 euro.com.pl###cookie-bar
 komputronik.pl##.cookies-bar.active
+https://i.ytimg.com/vi/*
+*.ytimg.com/vi/*
+*.ytimg.com/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
