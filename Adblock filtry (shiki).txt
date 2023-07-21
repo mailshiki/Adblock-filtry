@@ -38,5 +38,7 @@ https://video.sibnet.ru/upload/preview300/*
 video.sibnet.ru/upload/preview300/*
 https://video.sibnet.ru/upload/preview300/*.png
 video.sibnet.ru/upload/preview300/*.png
+*.cloud.kodik-cdn.com/*.jpg
+*.cloud.kodik-storage.com/*.jpg
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
