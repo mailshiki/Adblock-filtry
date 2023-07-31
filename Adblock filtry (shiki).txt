@@ -2,9 +2,7 @@
 ! Checksum: RtXdqAXwYdp+WpJOQ5wBJQ
 ! Version: 201906011210
 ! Title: Shikimori
-! Expires: 9 hours (update frequency)
 !
-! Please report any issues
 https://shikimori.one/assets/globals/events/special_2.jpg
 https://shikimori.one/assets/globals/events/special_2@2x.jpg
 https://shikimori.one/assets/globals/events/*
@@ -38,9 +36,5 @@ https://video.sibnet.ru/upload/preview300/*
 video.sibnet.ru/upload/preview300/*
 https://video.sibnet.ru/upload/preview300/*.png
 video.sibnet.ru/upload/preview300/*.png
-*.cloud.kodik-cdn.com/*.jpg
-*.cloud.kodik-storage.com/*.jpg
-*.cloud.kodik-cdn.com/*/*/*/*.jpg
-*.cloud.kodik-storage.com/*/*/*/*.jpg
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
