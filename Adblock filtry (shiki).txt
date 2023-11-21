@@ -9,9 +9,6 @@ https://shikimori.one/assets/globals/events/*
 https://shikimori.me/assets/globals/events/special_2.jpg
 https://shikimori.me/assets/globals/events/special_2@2x.jpg
 https://shikimori.me/assets/globals/events/*
-*.shikimori.me/assets/globals/events/special_2.jpg
-*.shikimori.me/assets/globals/events/special_2@2x.jpg
-*.shikimori.me/assets/globals/events/*
 myanimelist.net/c/*
 *.myanimelist.net/c/*
 shinden.pl###cookie-bar
@@ -32,6 +29,8 @@ anilibria.tv/hero
 https://www.anilibria.tv/img/other/*
 anilibria.tv/img/other/*
 *.anilibria.tv/img/other/*
+https://boosty.to/anilibriatv
+boosty.to/anilibriatv
 https://video.sibnet.ru/upload/preview300/*
 video.sibnet.ru/upload/preview300/*
 https://video.sibnet.ru/upload/preview300/*.png
