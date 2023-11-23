@@ -30,6 +30,7 @@ https://www.anilibria.tv/img/other/*
 anilibria.tv/img/other/*
 *.anilibria.tv/img/other/*
 !Картинка-заголовок на главной странице (/img/season/*.jpg)
+https://www.anilibria.tv/img/season/*.jpg
 *.anilibria.tv/img/season/*.jpg
 https://video.sibnet.ru/upload/preview300/*
 video.sibnet.ru/upload/preview300/*
