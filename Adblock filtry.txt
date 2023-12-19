@@ -38,5 +38,9 @@ komputronik.pl##.cookies-bar.active
 https://i.ytimg.com/vi/*
 *.ytimg.com/vi/*
 *.ytimg.com/*
+https://www.googleadservices.com/pagead/*
+*.googleadservices.com/pagead/*
+https://www.youtube.com/embed/*
+*.youtube.com/embed/*
 ! #9274
 jvpnews.com#$#abort-current-inline-script atob TextDecoder
